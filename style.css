@@ -1,0 +1,57 @@
+body{
+  background-color:#0d0d0d;
+
+}
+.videoDesign{
+   
+    border: 10px solid #77ff00;
+    border-radius: 20px;
+    box-shadow: 0 0 20px #00ff62;
+    display: inline-block;
+    padding: 10px;
+    width: 737PX;
+    height: 415PX;
+    background-color: rgb(233, 255, 120);
+    margin-left:250px;
+    margin-top:40;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:5px;
+    font-size: xx-large;
+    text-shadow: aqua;
+    color: aliceblue;
+    
+}
+.buttonDesign{
+   margin: 10px;
+   margin-left: 440px; 
+   height:50px;
+   font-size: x-large;
+   font-family: sans-serif;
+   background-color: aliceblue;
+   font-weight: bold;
+   margin-top:30px;
+
+}
+.buttonDesigns{
+    margin:10px;
+    height:50px;
+    font-size: x-large;
+    font-family: sans-serif;
+    background-color: aliceblue;
+    font-weight: bold;
+ 
+}
+
+p{
+    color: aliceblue;
+    text-align:center;
+    font-size:large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom:30px;
+}
+
+
